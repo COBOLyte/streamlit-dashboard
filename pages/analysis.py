@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Analyse des données")
+st.title("Conclusion")
 
 st.write(
   "" \
